@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+
+# Recordings & temporary work dirs
+*.mp4
+*.webm
+*_work/
+profile/
+
+# Environment
+.env
+*.log
